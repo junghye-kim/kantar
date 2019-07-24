@@ -1,0 +1,309 @@
+body{
+  background: #fffdd4;
+  position: absolute;
+  width: 100%;
+  height: 250%;
+}
+
+.hi{
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  margin-top: 3%;
+}
+
+.dartmouth{
+  width: 60%;
+  height: auto;
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  border: 3px solid #615375;
+  line-height: 1.5
+}
+
+.text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #666665;
+  margin: 0% 15px 10% 15px;
+
+}
+
+.dataviz_gallery{
+  width: 60%;
+  height:150%;
+  position: absolute;
+  top: 40%;
+  left: 20%;
+
+
+
+}
+
+.gallery1{
+  position: absolute;
+  width: 55%;
+  left: 0;
+border: 3px solid #615375;
+  margin: 5px
+}
+
+.gallery2{
+  width: 40%;
+  border: 3px solid #615375;
+  margin: 5px;
+  position: absolute;
+  top: 0%;
+  left: 58%;
+}
+
+.gallery3{
+  width: 40%;
+  border: 3px solid #615375;
+  margin: 5px;
+  position: absolute;
+  top: 9.5%;
+  left: 58%;
+
+}
+
+.gallery4{
+  width: 55%;
+  border: 3px solid #615375;
+  margin: 5px;
+  position: absolute;
+  top: 15.5%;
+  left: 0%;
+
+}
+
+.gallery5{
+  width: 40%;
+  border: 3px solid #615375;
+  margin: 5px;
+  position: absolute;
+  top: 21%;
+  right: 0%;
+
+}
+
+.gallcaption{
+  color: #666665;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 15%;
+  top: 29.5%;
+  width: 70%;
+}
+
+a{
+  color: #666665;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.nyhan{
+  color: #666665;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  top: 37.5%;
+  left: 0%;
+  width: 98%;
+  height: auto;
+  border: 3px solid #615375;;
+}
+
+h2{
+  text-decoration: underline;
+  padding: 5px;
+}
+
+.poster{
+  width: 85%;
+  border: 3px solid #666665;;
+  position: absolute;
+  top: 56.5%;
+  left: 7.5%;
+
+}
+
+.poster_caption{
+  color: #666665;;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 10%;
+  top: 76.5%;
+  width: 80%;
+}
+
+.politics{
+  width: 60%;
+  height:30%;
+  position: absolute;
+  top: 190%;
+  left: 20%;
+  line-height: 1.3;
+}
+
+.politics_header{
+  width: 40%;
+  margin-left: 30%;
+}
+
+
+
+.twoseventy{
+  width: 60%;
+  height:60%;
+  position: absolute;
+  top: 235%;
+  left: 20%;
+  line-height: 1.3;
+  border: 3px solid #615375;
+}
+
+.logo_270{
+  width: 70%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+
+.other_dartmouth{
+  position: absolute;
+  top: 88%;
+  line-height: 1.5;
+}
+
+.skills{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.glossier{
+  width: 60%;
+  height:55%;
+  position: absolute;
+  top: 310%;
+  left: 20%;
+  border: 3px solid #615375;
+  line-height: 1.3;
+}
+
+.logo_glossier{
+  width: 60%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.skills_text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #666665;
+  margin-top: 2%;
+  line-height: 1.5;
+
+}
+
+.kantar{
+  width: 60%;
+  height:25%;
+  position: absolute;
+  top: 435%;
+  left: 20%;
+  border: 3px solid #615375;
+  line-height: 1.5;
+}
+
+.logo_kantar{
+  width: 55%;
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-bottom: 5%;
+}
+
+
+.keyrus{
+  width: 60%;
+  height:40%;
+  position: absolute;
+  top: 380%;
+  left: 20%;
+  border: 3px solid #615375;
+
+}
+
+.logo_keyrus{
+  width: 40%;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.letter{
+  width: 40%;
+  margin-left: 30%;
+  border: 3px solid #615375;
+  margin-top: 10%;
+}
+
+
+.goodbye{
+  width: 60%;
+  height:15%;
+  position: absolute;
+  top: 465%;
+  left: 20%;
+  line-height: 1.5;
+  margin-bottom: 5%;
+
+
+}
+
+.made{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #615375;
+    letter-spacing: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin: 4%;
+    border: 3px solid #615375;
+
+}
+
+.linkedin{
+  width: 7%;
+  margin: 15% 5% 0% 40%;
+}
+
+.email{
+  width: 8%;
+}
+
+.click{
+  width: 15%;
+  top: 38%;
+  left: 4%;
+  position: absolute;
+  transform: rotate(-15deg);
+}
+
+.decisions{
+  margin-top: 5%;
+  margin-bottom:2%;
+}
+
+.signature{
+  width:50%;
+  margin-left: 25%;
+}
